@@ -1,0 +1,86 @@
+.back1{
+    background-image: url("https://wallpapercave.com/wp/wp3354895.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    color: yellow;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+.c1{
+    padding-top: 20px;
+}
+.c2{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+}
+.p1{
+    color: white;
+}
+.pa1{
+    padding-top: 20px;
+}
+.back2{
+     background-image: url("https://i.pinimg.com/originals/7a/0d/e2/7a0de2c425b99bd0f4490e1480fa89e5.jpg");
+     height: 100%;
+     width: 100%;
+     background-size: cover;
+}
+.n1{
+    padding-top: 20px;
+    color: white;
+}
+.n2{
+    padding: 30px;
+}
+.back3{
+    background-image: url("https://img.freepik.com/free-photo/black-monstera-leaves-background-wallpaper_53876-102420.jpg?w=2000");
+    height: 50%;
+    width: 100%;
+}
+.back4{
+    height: 50%;
+    width: 100%;
+}
+.v1{
+    padding-top: 120px;
+}
+.v2{
+    padding-top: 50px;
+    color: white;
+}
+.bt1{
+    height: 3vh;
+    width: 7%;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-left: 10px;
+    position: relative;
+    left: 70px;
+}
+.m1{
+    padding: 30px;
+    color: white;
+}
+.m2{
+    width: 50%;
+    height: 7vh;
+   
+    
+}
+
+ /* @media only screen and(max-width:480px){
+    .btnn{
+        background-color: rgb(23, 212, 96);
+        width: 30%;
+        height: 20%;
+    } 
+}  */
